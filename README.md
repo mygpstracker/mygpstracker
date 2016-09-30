@@ -12,6 +12,6 @@ This project allows you to track cell phones periodically. For instance every mi
 
 There are plenty of opportunities to participate in a number of different development and community roles. We have introduced our web presence at http://www.mygpstracker.xyz that includes a download section, community and support area. Github will be the ongoing development leg for:
 
-<b>Server Side Applications</b> - PHP, ASP(.NET); Mysql, Sqlite & Postgresql<br>
+<b>Server Side Applications</b> - ASP(.NET) SQL Server; PHP, Mysql, Sqlite & Postgresql<br>
 <b>Phone Clients</b> - IOS, Android, Windows and Blackberry<br>
 <b>Wordpress</b> - Plugin and dedicated Android client<br>
