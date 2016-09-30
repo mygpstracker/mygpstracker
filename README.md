@@ -16,7 +16,7 @@ If you are a <b>software developer</b> interested in phone tracking and have ski
 <li>Phone Clients - IOS, Android, Windows and Blackberry</li>
 <li>Wordpress - Plugin and dedicated Android client</li>
 </ul>
-then please download the GpsTracker code from github and contriblute to making GpsTracker better!
+then please download the GpsTracker code from github and contribute to making GpsTracker better!
 
 (Or) If you are a <b>web site implementor</b> interested in integrating GpsTracker into your web site, you'll need to:
 <ul>
@@ -24,7 +24,7 @@ then please download the GpsTracker code from github and contriblute to making G
 <li>Install and configure one of the databases compatible with GpsTracker (MySql, SQLite, PostgreSQL, SqlServer)</li>
 <li>Create Javascript (using one of GpsTracker's examples) to get locations from the database and display them on a map.</li></ul>
 
-You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your brower's Developer Tools to find and solve coding problems.
+You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your browser's Developer Tools to find and solve coding problems.
 
 (Or) If you are <b>simply a phone user</b> interested in seeing your (or someone elses) location on a map without any effort, this application is probobly not for you.  Have a look in the Play Store for a different app.
 
