@@ -1,3 +1,4 @@
+<img src="http://mygpstracker.xyz/download/images/mygpstracker.png" /> 
 # mygpstracker
 MyGPSTracker evolved from a common interests of asset tracking and mapping technologies. Millions of developers and individual site owners have deployed both the Leaflet and GPSTracker applications independently. Now the ability to possess a pre-combined, server/database flexible, easy to install, realtime solution is a reality. We have taken the unbelievable versatility of the Leaflet mapping solution and combined with the stable tracking capability of GPSTracker. The MyGPSTracker solution offers several server side operating systems, database combinations and several phone client options to serve your variable deployment needs. Take your tracking development creativity to a whole new level with the Leaflet mapping canvas, as developers we have put every consideration in ease of installation, versatility and speed of a successful deployment.
 
