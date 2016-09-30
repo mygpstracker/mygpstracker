@@ -10,7 +10,7 @@ This project allows you to track cell phones periodically. For instance every mi
 
 <b>SUPPORT ROLES, STRUCTURE AND DEVELOPMENT</b>
 
-There are plenty of opportunities to participate in a number of different development and community roles. We have introduced our web presence at http://www.mygpstracker.xyz that includes a download section, community and support area. Github will be the ongoing development leg for:
+There are plenty of opportunities to participate in a number of different development and community roles. We have introduced our web presence at http://www.mygpstracker.xyz that includes a download section, community and free support forum area. Github will be serve as the ongoing development leg for this project.
 
 If you are a <b>software developer</b> interested in phone tracking and have skills in at least one of:
 <ul>
