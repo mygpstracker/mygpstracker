@@ -12,15 +12,15 @@ This project allows you to track cell phones periodically. For instance every mi
 
 There are plenty of opportunities to participate in a number of different development and community roles. We have introduced our web presence at http://www.mygpstracker.xyz that includes a download section, community and support area. Github will be the ongoing development leg for:
 
-If you are a software developer interested in phone tracking and have skills in at least one of:
-
-<b>Server Side Applications</b> - ASP(.NET) SQL Server; PHP, Mysql, Sqlite & Postgresql<br>
-<b>Phone Clients</b> - IOS, Android, Windows and Blackberry<br>
-<b>Wordpress</b> - Plugin and dedicated Android client<br>
-
+If you are a <b>software developer</b> interested in phone tracking and have skills in at least one of:
+<ul>
+<li>Server Side Applications - ASP(.NET) SQL Server; PHP, Mysql, Sqlite and Postgresql</li>
+<li>Phone Clients - IOS, Android, Windows and Blackberry</li>
+<li>Wordpress - Plugin and dedicated Android client</li>
+</ul>
 then please download the GpsTracker code from github and contriblute to making GpsTracker better!
 
-(Or) If you are a web site implementor interested in integrating GpsTracker into your web site, you'll need to:
+(Or) If you are a <b>web site implementor</b> interested in integrating GpsTracker into your web site, you'll need to:
 <ul>
 <li>Configure a web server such as Apache and set up PHP scripting (or IIS and dotNet)</li>
 <li>Install and configure one of the databases compatible with GpsTracker (MySql, SQLite, PostgreSQL, SqlServer)</li>
@@ -28,6 +28,6 @@ then please download the GpsTracker code from github and contriblute to making G
 
 You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your brower's Developer Tools to find and solve coding problems.
 
-If you are simply a phone user interested in seeing your (or someone elses) location on a map without any effort, this application is probobly not for you.  Have a look in the Play Store for a different app.
+(Or) If you are <b>simply a phone user</b> interested in seeing your (or someone elses) location on a map without any effort, this application is probobly not for you.  Have a look in the Play Store for a different app.
 
 While we're happy to answer simple questions on our Forum for free, if you need help with integrating GpsTracker or MyGPSTracker please consider contracting one of our developers listed in our support forums.
