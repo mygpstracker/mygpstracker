@@ -22,9 +22,9 @@ then please download the GpsTracker code from github and contriblute to making G
 
 (Or) If you are a web site implementor interested in integrating GpsTracker into your web site, you'll need to:
 
-<b>Configure a web server such as Apache and set up PHP scripting (or IIS and dotNet)</b>
-<b>Install and configure one of the databases compatible with GpsTracker (MySql, SQLite, PostgreSQL, SqlServer)</b>
-<b>Create Javascript (using one of GpsTracker's examples) to get locations from the database and display them on a map.</b>
+<b>* Configure a web server such as Apache and set up PHP scripting (or IIS and dotNet)</b><br>
+<b>* Install and configure one of the databases compatible with GpsTracker (MySql, SQLite, PostgreSQL, SqlServer)</b><br>
+<b>* Create Javascript (using one of GpsTracker's examples) to get locations from the database and display them on a map.</b><br>
 
 You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your brower's Developer Tools to find and solve coding problems.
 
