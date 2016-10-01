@@ -16,13 +16,13 @@ If you are a <b>software developer</b> interested in phone tracking and have ski
 <li>Phone Clients - IOS, Android, Windows and Blackberry</li>
 <li>Wordpress - Plugin and dedicated Android client</li>
 </ul>
-then please download the GpsTracker code from github and contribute to making GpsTracker better!
+then please download the MyGpsTracker code from github and contribute to making GpsTracker better!
 
-(Or) If you are a <b>web site implementor</b> interested in integrating GpsTracker into your web site, you'll need to:
+(Or) If you are a <b>web site implementor</b> interested in integrating MyGpsTracker into your web site, you'll need to:
 <ul>
 <li>Configure a web server such as Apache and set up PHP scripting (or IIS and dotNet)</li>
 <li>Install and configure one of the databases compatible with GpsTracker (MySql, SQLite, PostgreSQL, SqlServer)</li>
-<li>Create Javascript (using one of GpsTracker's examples) to get locations from the database and display them on a map.</li></ul>
+<li>Create Javascript (using one of MyGpsTracker's examples) to get locations from the database and display them on a map.</li></ul>
 
 You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your browser's Developer Tools to find and solve coding problems.
 
@@ -31,3 +31,14 @@ You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scri
 While we're happy to answer simple questions on our Forum for free, if you need help with integrating GpsTracker or MyGPSTracker please consider contracting one of our developers listed in our support forums.
 
 There are plenty of opportunities to participate in a number of different development and community roles. We have introduced our web presence at http://www.mygpstracker.xyz that includes a download section, community and free support forum area. Github will be serve as the ongoing development leg for this project.
+
+<b>TESTDRIVE MyGPSTRACKER BEFORE YOU DOWNLOAD</b>
+
+Test drive the new MyGPSTracker Web Server system or test your MyGPSTracker phone client download.
+
+Our GPSTracker web map is located at: http://mygpstracker.xyz/mygpstracker/index.html
+and feel free to use our WebTracker Client to connect to our map: http://mygpstracker.xyz/mygpstracker/webtracker.html
+
+(OR)
+
+Download one of our GPS Tracker Phone Clients and connect by inputing your name and connecting to: http://mygpstracker.xyz/mygpstracker/updatelocation.php
