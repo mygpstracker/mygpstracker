@@ -26,7 +26,7 @@ then please download the MyGpsTracker code from github and contribute to making 
 
 You will need to be comfortable editing HTML, CSS, JavaScript, PHP, and SQL scripts, as well as using your browser's Developer Tools to find and solve coding problems.
 
-(Or) If you are <b>simply a phone user</b> interested in seeing your (or someone elses) location on a map without any effort, this application is probobly not for you.  Have a look in the Play Store for a different app.
+(Or) If you are <b>simply a phone user</b> interested in seeing your (or someone elses) location on a map without any effort, this application is probobly not for you BUT you may want to take a moment and look below at our "TestDrive" section. 
 
 While we're happy to answer simple questions on our Forum for free, if you need help with integrating GpsTracker or MyGPSTracker please consider contracting one of our developers listed in our support forums.
 
